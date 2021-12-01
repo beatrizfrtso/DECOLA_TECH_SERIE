@@ -1,3 +1,3 @@
 # DIOAPPSERIES
 
-Aplicativo simples para catalogar suas séries
+Aplicativo simples para cadastrar suas séries
