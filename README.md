@@ -1,3 +1,3 @@
-# DECOLA_TECH_SERIE
+# DIOAPPSERIES
 
 Aplicativo simples para catalogar suas séries
